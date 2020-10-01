@@ -4,7 +4,7 @@ A person that happens to love programming any kind of technology is a tool, so i
 <br/><br/>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ibrahim-jaber-82841a150/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ibrahim-jaber-82841a150/)
+
 
 
 ## Tools i use
