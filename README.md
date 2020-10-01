@@ -1,5 +1,5 @@
-## <img src="https://user-images.githubusercontent.com/48138906/87844647-ada73c00-c8dc-11ea-96af-427f77038aca.gif" width='30px'>
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+
+
 A person that happens to love programming any kind of technology is a tool, so it doesn't matter I'll use anything to complete an objective. 
 <br/><br/>
 
