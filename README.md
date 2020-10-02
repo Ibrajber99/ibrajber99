@@ -1,7 +1,6 @@
 ## Hi 👋 I am Ibrahim! 
 
-## A person that simply has a passion for programming 
-## and making ideas become reality through various technologies. 
+## A person that simply has a passion for programming and like making ideas become reality through various technologies. 
 <br/><br/>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ibrahim-jaber-82841a150/)
