@@ -7,7 +7,8 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ibrahim-jaber-82841a150/)
 
 ## My recent game
-[Game](https://ibra-jber76.itch.io/spacewars-beta)
+[Spacewars](https://ibra-jber76.itch.io/spacewars-beta)
+
 
 
 ## Tools i use
