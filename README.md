@@ -14,6 +14,9 @@ A person that simply has a passion for programming
 - JavaSE
 - JavaEE
 - JavaScript
+- CSS
+- HTML
+- Desktop applications Development (WPF,JavaSwing,QT)
 - SQL
 
 
