@@ -9,6 +9,10 @@
 [Spacewars](https://ibra-jber76.itch.io/spacewars-beta)
 ![Game_Shot_1](https://user-images.githubusercontent.com/53438581/93876671-99e9ce80-fcad-11ea-9f0d-585a949a2879.PNG)
 
+## School Registration System
+[repo](https://github.com/Ibrajber99/School_Student_Reg_System_itr1)
+![Admin_Dashboard](https://user-images.githubusercontent.com/53438581/90513192-9eaee600-e135-11ea-92e3-8ed9730f21af.PNG)
+
 
 ## Tools i use
 - C++
