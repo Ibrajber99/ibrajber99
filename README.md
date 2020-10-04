@@ -29,6 +29,6 @@
 ##  Github Stats
 ![](https://komarev.com/ghpvc/?username=nikunj3011&color=orange)<br/>
 ![Ibrahim's github stats](https://github-readme-stats.vercel.app/api?username=ibrajber99&show_icons=true&theme=vision-friendly-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrajber99&layout=compact)](https://github.com/nikunj3011/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrajber99&layout=compact)](https://github.com/ibrajber99/)
 
 
