@@ -7,7 +7,7 @@
 
 ## My recent game
 [Spacewars](https://ibra-jber76.itch.io/spacewars-beta)
-![Game_Shot_1](https://user-images.githubusercontent.com/53438581/93876671-99e9ce80-fcad-11ea-9f0d-585a949a2879.PNG)
+![InGameShot2](https://user-images.githubusercontent.com/53438581/96354322-cfff5000-10ab-11eb-9ac5-2f9263526ef5.PNG)
 
 ## School Registration System
 [repo](https://github.com/Ibrajber99/School_Student_Reg_System_itr1)
