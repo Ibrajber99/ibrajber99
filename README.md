@@ -11,6 +11,9 @@
 
 ## Tools i use
 - C++
+- C#
+- ASP .NET
+- Kotlin
 - JavaSE
 - JavaEE
 - JavaScript
