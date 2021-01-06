@@ -13,9 +13,7 @@
 [Lumin Shows](https://github.com/Ibrajber99/Lumin_TV_Shows)
 ![HomePage](https://user-images.githubusercontent.com/53438581/102015483-50e86a00-3d32-11eb-9be4-d27e71949703.PNG)
 
-## My recent game
-[Spacewars](https://ibra-jber76.itch.io/spacewars-beta)
-![InGameShot2](https://user-images.githubusercontent.com/53438581/96354322-cfff5000-10ab-11eb-9ac5-2f9263526ef5.PNG)
+
 
 ## Tools i use
 - C++
