@@ -3,6 +3,12 @@
 ## A person that simply has a passion for programming and like making ideas become reality through various technologies. 
 <br/><br/>
 
+##  Github Stats
+![](https://komarev.com/ghpvc/?username=ibrajber99&color=orange)<br/>
+![Ibrahim's github stats](https://github-readme-stats.vercel.app/api?username=ibrajber99&show_icons=true&theme=vision-friendly-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrajber99&layout=compact)](https://github.com/ibrajber99/)
+<br/>
+
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ibrahim-jaber-82841a150/)
 ## Booking system (Advanced technology solutions)
 [ATS Java web booking system](https://github.com/Ibrajber99/Java-Web-Booking-system)
@@ -33,9 +39,6 @@
 
 
 
-##  Github Stats
-![](https://komarev.com/ghpvc/?username=ibrajber99&color=orange)<br/>
-![Ibrahim's github stats](https://github-readme-stats.vercel.app/api?username=ibrajber99&show_icons=true&theme=vision-friendly-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrajber99&layout=compact)](https://github.com/ibrajber99/)
+
 
 
