@@ -14,6 +14,9 @@
 ![HomePage](https://user-images.githubusercontent.com/53438581/102015483-50e86a00-3d32-11eb-9be4-d27e71949703.PNG)
 
 
+# Lumin-Trivia (website for trivia questions using 3rd party APIs)
+[REPO]https://github.com/Ibrajber99/Lumin-Trivia
+
 
 ## Tools i use
 - C++
