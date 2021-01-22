@@ -25,12 +25,11 @@
 
 
 ## Tools i use
-- C++
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 - C#
 - ASP .NET
 - Kotlin
-- JavaSE
-- JavaEE
 - JavaScript
 - CSS
 - HTML
