@@ -21,11 +21,11 @@
 
 
 # Lumin-Trivia (website for trivia questions using 3rd party APIs)
-[REPO](https://github.com/Ibrajber99/Lumin-Trivia)
+[Lumin-Trivia](https://github.com/Ibrajber99/Lumin-Trivia)
 
 # Lumin-Crypto (web app for basic crpyto information usign 3rd party API)
+[Lumin-Crypto](https://github.com/Ibrajber99/Lumin-Crypto)
 ![Main Page](https://user-images.githubusercontent.com/53438581/108897922-fb132680-75ec-11eb-916a-f70027f5a75b.png)
-[REPO](https://github.com/Ibrajber99/Lumin-Crypto)
 
 
 ## Tools i use
