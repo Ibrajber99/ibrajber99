@@ -9,7 +9,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrajber99&layout=compact)](https://github.com/ibrajber99/)
 <br/>
 
-![](https://komarev.com/ghpvc/?username=ibrajber99)
+
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ibrahim-jaber-82841a150/)
 ## Booking system (Advanced technology solutions)
