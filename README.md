@@ -17,6 +17,10 @@
 ![Dahsboard](https://user-images.githubusercontent.com/53438581/102014466-85f1be00-3d2c-11eb-8485-3750709d8cd9.PNG)
 
 
+## LuminMovies (Movies web applications)
+[LuminMovies](https://github.com/Ibrajber99/LuminMovies)
+![Home](https://user-images.githubusercontent.com/53438581/114245218-68dd9c80-9966-11eb-91cf-39d8ece034b5.png)
+
 ## LuminFy(Spotify web application)
 
 [LuminFy](https://github.com/Ibrajber99/LuminFy)  
