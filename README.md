@@ -29,7 +29,7 @@
 ## LuminFy(Spotify web application)
 
 [LuminFy](https://github.com/Ibrajber99/LuminFy)  
-![Home page](https://user-images.githubusercontent.com/53438581/110303238-8a96dd00-7fd0-11eb-8e4a-9ad06b3ae721.png)
+![Home page](https://user-images.githubusercontent.com/53438581/114309836-02b85d00-9abf-11eb-84c5-1d970b84be90.png)
 
 # TV Shows (Database Driven Application)
 [Lumin Shows](https://github.com/Ibrajber99/Lumin_TV_Shows)
