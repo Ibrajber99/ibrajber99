@@ -1,6 +1,5 @@
 ## Hi 👋 I am Ibrahim! 
 
-## A person that simply has a passion for programming and like making ideas become reality through various technologies. 
 <br/><br/>
 
 ##  Github Stats
