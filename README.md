@@ -14,25 +14,25 @@
 
 ## REAP- Real estate services
 [REAP](https://github.com/Ibrajber99/REAP-real-estate-agency)
-![Home Page](https://user-images.githubusercontent.com/53438581/114312133-f5ec3700-9ac7-11eb-9543-39eab4f1bec8.png)
+
 
 ## Booking system (Advanced technology solutions)
 [ATS Java web booking system](https://github.com/Ibrajber99/Java-Web-Booking-system)
-![Dahsboard](https://user-images.githubusercontent.com/53438581/102014466-85f1be00-3d2c-11eb-8485-3750709d8cd9.PNG)
+
 
 
 ## LuminMovies (Movies web applications)
 [LuminMovies](https://github.com/Ibrajber99/LuminMovies)
-![Home](https://user-images.githubusercontent.com/53438581/114245218-68dd9c80-9966-11eb-91cf-39d8ece034b5.png)
+
 
 ## LuminFy(Spotify web application)
 
 [LuminFy](https://github.com/Ibrajber99/LuminFy)  
-![Home page](https://user-images.githubusercontent.com/53438581/114309836-02b85d00-9abf-11eb-84c5-1d970b84be90.png)
+
 
 # TV Shows (Database Driven Application)
 [Lumin Shows](https://github.com/Ibrajber99/Lumin_TV_Shows)
-![HomePage](https://user-images.githubusercontent.com/53438581/102015483-50e86a00-3d32-11eb-9be4-d27e71949703.PNG)
+
 
 
 # Lumin-Trivia (website for trivia questions using 3rd party APIs)
@@ -40,7 +40,7 @@
 
 # Lumin-Crypto (web app for basic crpyto information using 3rd party API)
 [Lumin-Crypto](https://github.com/Ibrajber99/Lumin-Crypto)
-![Main Page](https://user-images.githubusercontent.com/53438581/108897922-fb132680-75ec-11eb-916a-f70027f5a75b.png)
+
 
 
 ## Tools i use
